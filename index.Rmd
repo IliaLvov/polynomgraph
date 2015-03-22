@@ -25,7 +25,7 @@ Can be found online at https://ilialvov.shinyapps.io/polynomialplots/
 
 1. Convinient and easy to use.
 2. Fast in calculations and rendering.
-3. Beautfifully interactive.
+3. Beautifully interactive.
 4. Polynoms of power up to 5 are supported.
 5. A variety of intervals are supported.
 6. Roots are additionally calculated.
@@ -124,7 +124,7 @@ functionRoots(input1)
 ```
 
 ** Evaluations are actually performed in the code of this presentation,
-however the app uses code a similar structure
+however the app uses code of a similar structure
 
 ---
 
